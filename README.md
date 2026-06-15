@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HERO BANNER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:FF4D4D&height=220&section=header&text=Kishore%20V%20S&fontSize=65&fontAlignY=38&fontColor=FFFFFF&desc=AI%20Product%20Engineer%20%E2%80%A2%20Automation%20Builder%20%E2%80%A2%20Student%20Founder&descAlignY=60&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:FF4D4D&height=220&section=header&text=Kishore%20V&fontSize=65&fontAlignY=38&fontColor=FFFFFF&desc=AI%20Product%20Engineer%20%E2%80%A2%20Automation%20Builder%20%E2%80%A2%20Student%20Founder&descAlignY=60&descSize=17&animation=fadeIn"/>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF0080&center=true&vCenter=true&width=700&lines=Building+AI+Products+that+Actually+Work+%F0%9F%A4%96;Automating+Businesses+with+n8n+%26+WhatsApp+%E2%9A%A1;Solving+DSA+in+C%2B%2B+%7C+Neetcode+150+Grind+%F0%9F%94%A5;2nd+Year+IT+Student+%40+SKCET%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3;AI+Product+Engineer+in+the+Making+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 ## 🧬 About Me
 
 ```yaml
-name       : Kishore V S
+name       : Kishore V 
 location   : Tamil Nadu, India 🇮🇳
 college    : Sri Krishna College of Engineering & Technology
 degree     : B.Tech Information Technology (2023–27)
@@ -145,17 +145,7 @@ fun_fact   : "Ship fast. Learn faster."
 
 ---
 
-<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=141321&color=FF0080&line=7928CA&point=FF4D4D&area=true&hide_border=true"/>
-</div>
-
----
-
-<!-- ═══════════════════ BUILD LOG ═══════════════════ -->
 
 ## 🔨 Current Build Log
 
