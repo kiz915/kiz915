@@ -7,6 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF0080&center=true&vCenter=true&width=700&lines=Building+AI+Products+that+Actually+Work+%F0%9F%A4%96;Automating+Businesses+with+n8n+%26+WhatsApp+%E2%9A%A1;Solving+DSA+in+C%2B%2B+%7C+Neetcode+150+Grind+%F0%9F%94%A5;2nd+Year+IT+Student+%40+SKCET%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3;AI+Product+Engineer+in+the+Making+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kiz915&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/kiz915?style=for-the-badge&color=FF0080&labelColor=141321&label=FOLLOWERS)
+
 </div>
 
 <br/>
@@ -20,7 +24,7 @@
 ## 🧬 About Me
 
 ```yaml
-name       : Kishore V 
+name       : Kishore V
 location   : Tamil Nadu, India 🇮🇳
 college    : Sri Krishna College of Engineering & Technology
 degree     : B.Tech Information Technology (2023–27)
@@ -80,7 +84,7 @@ fun_fact   : "Ship fast. Learn faster."
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🤚 GestureType AI</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -89,7 +93,7 @@ fun_fact   : "Ship fast. Learn faster."
     </td>
     <td width="50%" align="center" valign="top">
       <h3>📊 ML Predictive Modeler</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -99,7 +103,7 @@ fun_fact   : "Ship fast. Learn faster."
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>📈 Data Viz Dashboard</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
@@ -108,7 +112,7 @@ fun_fact   : "Ship fast. Learn faster."
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🥥 KVS Coconut Traders</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/Branding-FF0080?style=flat-square"/>
       <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -125,12 +129,12 @@ fun_fact   : "Ship fast. Learn faster."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=141321"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=kiz915&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiz915&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=141321"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141321"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=kiz915&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141321"/>
 </div>
 
 ---
@@ -140,12 +144,22 @@ fun_fact   : "Ship fast. Learn faster."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kiz915&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
 
+<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiz915&bg_color=141321&color=FF0080&line=7928CA&point=FF4D4D&area=true&hide_border=true"/>
+</div>
+
+---
+
+<!-- ═══════════════════ BUILD LOG ═══════════════════ -->
 
 ## 🔨 Current Build Log
 
@@ -167,7 +181,7 @@ fun_fact   : "Ship fast. Learn faster."
 ## 🐍 My Contributions Eating Themselves
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/kiz915/kiz915/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 > 💡 *To activate the snake, set up the GitHub Action from [Platane/snk](https://github.com/Platane/snk)*
@@ -181,7 +195,7 @@ fun_fact   : "Ship fast. Learn faster."
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiz915)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE)
 
