@@ -6,14 +6,6 @@
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF0080&center=true&vCenter=true&width=700&lines=Building+AI+Products+that+Actually+Work+%F0%9F%A4%96;Automating+Businesses+with+n8n+%26+WhatsApp+%E2%9A%A1;Solving+DSA+in+C%2B%2B+%7C+Neetcode+150+Grind+%F0%9F%94%A5;2nd+Year+IT+Student+%40+SKCET%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3;AI+Product+Engineer+in+the+Making+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=FF0080&labelColor=141321&label=FOLLOWERS)
-
-</div>
-
-<br/>
 
 ---
 
