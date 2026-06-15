@@ -75,56 +75,7 @@ fun_fact   : "Ship fast. Learn faster."
 
 ---
 
-<!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🤚 GestureType AI</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-      <p>Real-time hand gesture → keyboard input using MediaPipe + scikit-learn. Deployed as an interactive Streamlit app.</p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>📊 ML Predictive Modeler</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <p>13-file Python CLI — Linear Regression, Decision Tree & Random Forest from ingestion to prediction. Production-grade architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📈 Data Viz Dashboard</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white"/>
-      <p>Zero-framework interactive dashboard — vanilla JS + Chart.js. No bundler, no deps. Live on GitHub Pages.</p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🥥 KVS Coconut Traders</h3>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kiz915&repo=REPO_NAME&theme=radical&hide_border=true" width="100%"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Branding-FF0080?style=flat-square"/>
-      <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white"/>
-      <p>Full brand identity for a family trading business — 4K logo, branded QR code & static site. Where design meets real business.</p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 ## 📊 GitHub Stats
 
