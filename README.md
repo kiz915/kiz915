@@ -1,169 +1,159 @@
 <div align="center">
 
-<!-- ═══════════════════ HERO BANNER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:FF0080,100:FF4D4D&height=220&section=header&text=Kishore%20V&fontSize=65&fontAlignY=38&fontColor=FFFFFF&desc=IT%20Product%20Engineer%20%E2%80%A2%20Automation%20Builder%20%E2%80%A2%20Student%20Founder&descAlignY=60&descSize=17&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:534AB7&height=220&section=header&text=Hi%20there,%20I'm%20Kishore%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI%20products%20%7C%20B.Tech%20IT%20%40%20SKCET&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF0080&center=true&vCenter=true&width=700&lines=Building+AI+Products+that+Actually+Work+%F0%9F%A4%96;Automating+Businesses+with+n8n+%26+WhatsApp+%E2%9A%A1;Solving+DSA+in+C%2B%2B+%7C+Neetcode+150+Grind+%F0%9F%94%A5;2nd+Year+IT+Student+%40+SKCET%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3;AI+Product+Engineer+in+the+Making+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Software+Engineer+in+the+making+%F0%9F%9A%80;Building+Automyte+%E2%80%94+AI+for+Indian+SMBs;Computer+Vision+%2B+Automation+%2B+Full-Stack;Currently+shipping+GestureType+AI+%26+KishoreCode" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kiz915&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/kiz915?style=for-the-badge&color=FF0080&labelColor=141321&label=FOLLOWERS)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/kiz915)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kishorev__)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kishore_amv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-v-a363433a9)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Kishore-VK8)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@kishore_amv)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorevk40@gmail.com)
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
-
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" style="border-radius:10px"/>
-
-## 🧬 About Me
+## 💫 About Me
 
 ```yaml
-name       : Kishore V
-location   : Tamil Nadu, India 🇮🇳
-college    : Sri Krishna College of Engineering & Technology
-degree     : B.Tech Information Technology (2023–27)
-focus      : AI Product Engineering
-building   : AI Automation Agency (AAA)
-learning   : DSA in C++ • LLM Workflows • n8n Agents
-target     : AI Product Engineer @ Product Company
-fun_fact   : "Ship fast. Learn faster."
+name: Kishore
+role: B.Tech Information Technology — 2nd Year, SKCET (Coimbatore, TN)
+goal: Software Engineer 🎯
+currently_building:
+  - Automyte      → AI startup-OS / automation venture for Indian SMBs
+  - KishoreCode   → LeetCode-style C++ mastery platform
+  - GestureType AI → hand-gesture recognition & ASL-to-text (flagship CV project)
+also_doing:
+  - Freelance web dev for Tamil Nadu SMBs (Coimbatore-first)
+  - Prepping for Hack'zen 2026 (EcoOptima) & HAC'KP 2026
+interests: [fitness, stoicism, self-development, natural wellness]
 ```
 
-🔭 **Now:** WhatsApp automation bots + lead-gen pipelines for Indian SMBs  
-🧠 **Stack:** Python • C++ • JavaScript • n8n • OpenCV • Streamlit  
-💼 **Shipped:** GestureType AI · ML Modeler · Data Dashboard · KVS Branding  
-⚡ **Motto:** *Build things. Break things. Learn fast. Ship faster.*
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**— Languages —**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark&perline=5)](https://skillicons.dev)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**— Tools & Platforms —**
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-[![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,notion&theme=dark&perline=5)](https://skillicons.dev)
-
-<br/>
-
-**— AI / ML / Automation —**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+## 🚀 Featured Work
 
+<table>
+<tr>
+<td width="50%">
+
+### 🖐️ GestureType AI
+Flagship computer-vision project — types A–Z via hand gestures, converts ASL to text, and controls PC functions in real time.
+
+`Python` `OpenCV` `MediaPipe` `scikit-learn` `Streamlit`
+
+</td>
+<td width="50%">
+
+### 🤖 Automyte
+AI-powered startup operating system for Indian SMBs — multi-agent "executive AI team," onboarding, docs, and automation.
+
+`React` `Next.js` `Tailwind` `Supabase`
+🔗 [automyte-ai.vercel.app](https://automyte-ai.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 KishoreCode
+A LeetCode-style platform built from scratch for C++ mastery — 100+ problems, mastery heatmap, live compiler.
+
+`Next.js` `Supabase` `Monaco Editor` `Piston API`
+🔗 [kishore-code1.vercel.app](https://kishore-code1.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🌐 Freelance Web Dev
+Building sites for Tamil Nadu SMBs — tattoo studios, salons & more. Delivered a full multi-page site + handoff spec for Nomad Tattoo, Coimbatore.
+
+`HTML/CSS/JS` `Design Systems` `Client Delivery`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=kiz915&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiz915&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=141321"/>
-</div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kiz915&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=141321"/>
-</div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kiz915&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiz915&layout=compact&theme=radical&hide_border=true"/>
 
----
-
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiz915&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
-
----
-
-<!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kiz915&bg_color=141321&color=FF0080&line=7928CA&point=FF4D4D&area=true&hide_border=true"/>
-</div>
-
----
-
-<!-- ═══════════════════ BUILD LOG ═══════════════════ -->
-
-## 🔨 Current Build Log
-
-<div align="center">
-
-| Status | Project | Details |
-|:------:|---------|---------|
-| 🟢 Active | **AI Automation Agency** | WhatsApp bots + lead gen for Indian SMBs |
-| 🟡 Grinding | **DSA in C++ (Neetcode 150)** | Arrays, recursion, sliding window |
-| 🟡 Setting up | **Ubuntu / WSL2 Dev Env** | Shell configs, tooling on Windows 11 |
-| 🔵 Exploring | **LLM Agentic Workflows** | n8n + AI agents + API integrations |
+<img src="https://streak-stats.demolab.com/?user=kiz915&theme=radical&hide_border=true" width="48%"/>
 
 </div>
 
----
-
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
-
-## 🐍 My Contributions Eating Themselves
-
+### 🏆 Trophies
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kiz915/kiz915/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kiz915&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
-> 💡 *To activate the snake, set up the GitHub Action from [Platane/snk](https://github.com/Platane/snk)*
+### 🐍 Contribution Snake
+<div align="center">
+<img src="https://raw.githubusercontent.com/kiz915/kiz915/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
----
+<sub>⚡ Generated by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the accompanying GitHub Action below to keep this animated on every push.</sub>
+</div>
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+### ✍️ Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
-## 📬 Let's Connect
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📈 Activity & Visitors
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiz915)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE)
+![Kishore's github stats](https://github-readme-activity-graph.vercel.app/graph?username=kiz915&theme=redical&hide_border=true)
 
-<br/>
-
-*Open to collabs on AI products, automation projects, and anything that ships fast 🚀*
+[![](https://komarev.com/ghpvc/?username=kiz915&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 </div>
 
----
-
-<!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D4D,50:FF0080,100:7928CA&height=130&section=footer"/>
-
-*Crafted with 🧠 + ☕ from Tamil Nadu, India*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:26215C&height=120&section=footer"/>
 
 </div>
